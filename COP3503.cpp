@@ -6,7 +6,7 @@
 modifying the whole entire file
 It will now never be the same 
 thanks
-modified 2	
+modified 2
 
 // COP3503.cpp file	
 modified from ubuntu
@@ -16,3 +16,4 @@ modified from Madelyn
 
 //modified by Lauren
 
+//the file has been changed
