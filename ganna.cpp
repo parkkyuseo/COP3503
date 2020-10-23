@@ -17,6 +17,10 @@ int ganna() {
 
 
     // this part should be changed. by kyu
+    //
+    // change by master
+    //
+    good bye world
     
     int a = 0;
     char c = 'a';
