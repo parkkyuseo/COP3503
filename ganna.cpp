@@ -25,5 +25,5 @@ int ganna() {
     int a = 0;
     char c = 'a';
 
-    long l = 100;
+    long l = 100;// it should be longlong // no it should be int or longint
 }
