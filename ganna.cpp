@@ -26,4 +26,11 @@ int ganna() {
     char c = 'a';
 
     long l = 100;// it should be longlong // no it should be int or longint
+
+
+
+
+
+
+    good morning
 }
