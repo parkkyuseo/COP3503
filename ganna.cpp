@@ -6,6 +6,9 @@
 
 int ganna() {
     std::cout << "Hello, World!" << std::endl;
+
+    // also change before return by kyu
+    std::cout << "this is git" << std::endl;
     return 0;
 
 
