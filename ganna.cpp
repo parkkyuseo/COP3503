@@ -17,4 +17,6 @@ int ganna() {
     
     int a = 0;
     char c = 'a';
+
+    long l = 100;
 }
